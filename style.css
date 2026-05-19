@@ -13,7 +13,7 @@ h1 {
 }
 img {
 	border: 15px dotted #680C07;
-	border-radius: 8px
+	border-radius: 8px;
 }
 img:hover{
 	border: 30px dotted #1B3427;
