@@ -1,3 +1,20 @@
-body {
-
+@charset "utf-8";
+	/*CSS Document*/
+	
+	body {
+		background-color: palegoldenrod;
+}
+h1 {
+    color: #1B3427;
+	font-size: 50px;
+	text-decoration:wavy 5px black underline;
+	text-shadow: 11px 12px 15px #1B3427;
+	
+}
+img {
+	border: 15px dotted #680C07;
+	border-radius: 8px
+}
+img:hover{
+	border: 30px dotted #1B3427;
 }
